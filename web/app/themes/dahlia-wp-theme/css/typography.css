@@ -1,0 +1,160 @@
+
+/* TYPOGRAPHY */
+/* ----------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+.alert { background:red; color:white } /* 'alert' has a basic style, since it's useful to have it standing out for testing purposes. */
+
+body {
+    font-family: Garamond, "Hoefler Text", Palatino, serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #336;
+}
+
+#content a {
+    border-bottom: 1px dotted #336;
+}
+
+#content a:hover {
+    border-bottom: 1px solid black;
+    color: black;
+}
+
+#top-nav li {
+    font-size: 24px;
+}
+
+#top-nav a {
+    color: black;
+}
+
+#top-nav a:hover {
+    text-decoration: underline;
+}
+
+#side-nav li {
+    font-size: 21px;
+    line-height: 30px;
+}
+
+#side-nav a {
+    color: black;
+}
+
+#side-nav a:hover {
+    text-decoration: underline;
+}
+
+#foty h4 {
+    font-size: 21px;    
+}
+
+#foty .year {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 36px;
+    margin-top: 20px;
+    line-height: 48px;
+}
+
+h2 a {
+    color: black;
+    padding-bottom: 2px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+#main .post-meta {
+    color: #666;
+}
+
+#foot-nav li {
+    font-size: 18px;
+}
+
+#foot-nav a {
+    color: black;
+}
+
+#foot-nav a:hover {
+    text-decoration: underline;
+}
+
+#copy {
+    color: #666;
+}
+
+/* Font stack options
+
+	The following represents a list of font stacks, as recommended by Nathan Ford in
+	http://unitinteractive.com/blog/2008/06/26/better-css-font-stacks/
+
+	I've added inverted commas around the relevant family names to ensure compatibility.
+	p = balanced for paragraphs or body copy
+	t = balanced for headlines or titles
+
+	- - - -
+
+Arial, "Helvetica Neue", Helvetica, sans-serif - p, t
+
+Baskerville, "Times New Roman", Times, serif - p
+Baskerville, "Times, Times New Roman", serif - t
+
+Cambria, Georgia, Times, "Times New Roman", serif - p, t
+"Century Gothic", "Apple Gothic", sans-serif - p, t
+
+Consolas, "Lucida Console", Monaco, monospace - p, t
+
+"Copperplate Light", "Copperplate Gothic Light", serif - p, t
+
+"Courier New", Courier, monospace - p, t
+
+"Franklin Gothic Medium", "Arial Narrow Bold", Arial, sans-serif - p, t
+
+Futura, "Century Gothic", "Apple Gothic", sans-serif - p, t
+
+Garamond, "Hoefler Text", "Times New Roman", Times, serif - p
+Garamond, "Hoefler Text", Palatino, "Palatino Linotype", serif - t
+
+Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif - p
+Geneva, Verdana, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif - t
+
+Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif - p
+Georgia, Times, "Times New Roman", serif - t
+
+GillSans, Calibri, Trebuchet, sans-serif - p
+GillSans, Trebuchet, Calibri, sans-serif - t
+
+"Helvetica Neue", Arial, Helvetica, sans-serif - p
+Helvetica, "Helvetica Neue", Arial, sans-serif - t
+
+Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif - p, t
+
+"Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif - p, t
+
+Palatino, "Palatino Linotype", Georgia, Times, "Times New Roman", serif - p
+Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif - t
+
+Tahoma, Geneva, Verdana - p
+Tahoma, Verdana, Geneva - t
+
+Times, "Times New Roman", Georgia, serif - p, t
+
+Trebuchet, "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif - p
+Trebuchet, Tahoma, Arial, sans-serif - t
+
+Verdana, Geneva, Tahoma, sans-serif - p
+Verdana, Tahoma, Geneva, sans-serif - t
+
+*/

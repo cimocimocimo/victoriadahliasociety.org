@@ -1,0 +1,12 @@
+/*
+Theme Name: VDS Theme
+Theme URI: http://cimolini.com
+Description: Victoria Dahlia Society website theme (Based on Twenty Ten)
+Version: 1.0
+Author: Aaron Cimolini
+Author URI: http://cimolini.com
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/layout.css";

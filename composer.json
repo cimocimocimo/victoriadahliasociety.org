@@ -38,7 +38,11 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.9.7",
     "oscarotero/env": "^1.1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "wpackagist-plugin/akismet": "^4.0",
+    "wpackagist-plugin/configure-smtp": "^3.1",
+    "wpackagist-plugin/google-analyticator": "^6.5",
+    "viper007bond/regenerate-thumbnails": "^3.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
